@@ -1,0 +1,15 @@
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\RKSTest1.csproj.AssemblyReference.cache
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\RKSTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\RKSTest1.AssemblyInfoInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\RKSTest1.AssemblyInfo.cs
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\RKSTest1.csproj.CoreCompileInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\bin\Debug\net7.0\RKSTest1.exe
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\bin\Debug\net7.0\RKSTest1.deps.json
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\bin\Debug\net7.0\RKSTest1.runtimeconfig.json
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\bin\Debug\net7.0\RKSTest1.dll
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\bin\Debug\net7.0\RKSTest1.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\RKSTest1.dll
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\refint\RKSTest1.dll
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\RKSTest1.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\RKSTest1.genruntimeconfig.cache
+C:\Users\xarra\OneDrive\Рабочий стол\TEST\RKSTest1\obj\Debug\net7.0\ref\RKSTest1.dll
