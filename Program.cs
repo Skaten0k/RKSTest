@@ -46,9 +46,9 @@ class JSONGenerator
     public static string FormPersonRecord(Person person)
     {
         StringBuilder sb = new StringBuilder();
-        sb.Append(@" {""name"":" + '"' + person.Name + '"' + ',');
-        sb.Append(@"""phoneNumber"":" + '"' + person.GetFormatedPhoneNumber() + '"' + ',');
-        sb.Append(@"""salary"":" + '"' + person.GetFormatedSalary() + '"' + "},");
+        sb.Append(@" {""name"":""" + person.Name + @""",");
+        sb.Append(@"""phoneNumber"":""" + person.GetFormatedPhoneNumber() + @""",");
+        sb.Append(@"""salary"":""" + person.GetFormatedSalary() + @"""},");
         var json = sb.ToString();
         return json;
     }
